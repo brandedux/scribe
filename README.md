@@ -57,4 +57,4 @@ Nested classes should be used like:<br />
 #### Copyright and License
 Copyright (c) 2019, Jeff Davis.
 
-Palette source code is licensed under the [MIT License](LICENSE).
+Scribe source code is licensed under the [MIT License](LICENSE).
