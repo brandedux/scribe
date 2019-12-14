@@ -16,7 +16,7 @@ Include the scribe class in your markup.<br />
 ```class="scribe"```
 
 Nest size, weight and alternate classes within the scribe class.<br /> 
-```class="txt-base txt-500 italic"```
+```class="txt-base txt-500 txt-italic"```
 
 Nested classes should be used like:<br />
 ```<div class="scribe">```<br />
@@ -44,9 +44,14 @@ Nested classes should be used like:<br />
 * txt-900
 
 #### 3. Alternates
-* bold
-* fixed-width
-* italic
+* txt-bold
+* txt-bolder
+* txt-fixed-width
+* txt-italic
+* txt-caps
+* txt-small-caps
+* txt-sup
+* txt-sub
 
 
 #### Copyright and License
